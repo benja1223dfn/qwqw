@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otro Mensaje Especial</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap">
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="love-message">¡Gracias por aceptar, Anto!</h1>
+        <p class="special-message">Eres lo más importante en mi vida. 💖</p>
+        <img src="otro-gato.image.png" alt="Otro Gato" class="center-image">
+    </div>
+
+</body>
+</html>
